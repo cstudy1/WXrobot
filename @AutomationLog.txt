@@ -1,0 +1,10 @@
+2024-01-24 19:49:12.982 main.py[8] <module> -> 2024-01-24 19:49:39.384 main.py[8] <module> -> 2024-01-24 19:50:16.545 main.py[8] <module> -> 2024-01-24 19:51:10.288 main.py[8] <module> -> 2024-01-24 19:54:37.737 main.py[8] <module> -> 2024-01-24 19:55:45.605 main.py[8] <module> -> 2024-01-24 19:56:14.412 main.py[8] <module> -> 2024-01-24 19:57:24.619 main.py[8] <module> -> 2024-01-24 20:08:03.576 main.py[8] <module> -> 2024-01-24 20:08:18.018 main.py[8] <module> -> 2024-01-24 20:15:16.681 main.py[46] <module> -> 2024-01-24 20:16:05.562 main.py[45] <module> -> 2024-01-24 20:35:25.918 main.py[42] <module> -> 2024-01-24 20:52:32.707 main.py[8] <module> -> 2024-01-24 21:08:02.365 main.py[9] <module> -> 2024-01-25 13:51:08.079 <stdin>[1] <module> -> Find Control Timeout(10s): {Name: '微信', waitTime: 2, ControlType: WindowControl}
+2024-01-25 13:51:21.212 <stdin>[1] <module> -> Find Control Timeout(10s): {Name: '微信', waitTime: 2, ControlType: WindowControl}
+2024-01-25 13:52:04.216 <stdin>[4] <module> -> 2024-01-25 14:02:49.057 main.py[59] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 14:05:00.823 main.py[64] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 14:11:39.925 main.py[70] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 14:19:21.306 main.py[70] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 14:23:29.572 main.py[70] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 14:36:48.309 main.py[70] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 15:35:10.384 main.py[71] <module> -> Find Control Timeout(10s): {ControlType: TextControl}
+2024-01-25 15:36:37.151 main.py[55] <module> -> Find Control Timeout(10s): {Name: '微信', waitTime: 2, ControlType: WindowControl}
